@@ -19,8 +19,8 @@ This project demonstrates a full machine learning workflow: from data cleaning t
 1. Exploratory Data Analysis (EDA)
 2. Data cleaning & preprocessing  
    - Handle missing values  
-   - Scaling for KNN  
 3. Train/test split (stratified)
+     - Scaling for KNN  
 4. Baseline KNN model
 5. Cross-validation (ROC-AUC)
 6. Hyperparameter tuning with GridSearchCV
